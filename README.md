@@ -20,4 +20,4 @@ A way to manage Terraform Version is that running terraform image via docker-com
 6. The resources you described on main.tf would be provision on AWS.
 
 
-I got insprired from different Youtube videos and Open Source works on terraform to create this repo. There is no any license. You can just adopt this scrips if you would like to. 
+I got inspried from Youtube videos and Open Source works on Github to create this repo. There is no any license. You can just adopt this scrips if you would like to. It is highly suggested to use terraform via docker-compose. 
