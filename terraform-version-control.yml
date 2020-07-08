@@ -1,10 +1,10 @@
 # ocker-compose version
-version: "1.25.5"
+version: '1.25.5'
 
 services: 
   tf: 
     # Terraform Image and its version
-    image: "hashicorp/terraform:0.12.28/"
+    image: hashicorp/terraform:0.12.28
     volumes: 
       # Type your local directory instead of "projects" for running docker-compose
       -.:/projects
